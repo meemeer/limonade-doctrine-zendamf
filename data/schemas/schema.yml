@@ -1,0 +1,12 @@
+---
+connection: doctrine
+options:
+  type: INNODB
+detect_relations: true
+
+Post:
+  actAs: [Timestampable]
+  columns:
+    title: string(50)
+    body: string(255)
+

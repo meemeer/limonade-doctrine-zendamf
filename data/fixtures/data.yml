@@ -1,0 +1,8 @@
+---
+Post:
+  Post_1:
+    title: title_test_1
+    body: body_test_1
+  Post_2:
+    title: タイトルテスト２
+    body: ボディテスト２
