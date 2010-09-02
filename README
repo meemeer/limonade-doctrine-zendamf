@@ -1,1 +1,4 @@
 limonade-doctrine-zendamf
+
+php doctrine.php build-all
+php doctrine.php load-data
