@@ -1,4 +1,5 @@
 limonade-doctrine-zendamf
 
+mkdir storage
 php doctrine.php build-all
 php doctrine.php load-data
